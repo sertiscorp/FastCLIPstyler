@@ -1,0 +1,8 @@
+torch==1.13.1
+sentence-transformers==2.2.2
+torchvision
+opencv-python
+matplotlib
+tqdm
+openai-clip
+

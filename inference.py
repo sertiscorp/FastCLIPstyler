@@ -24,7 +24,7 @@ class params:
     img_width=512
     img_height=512
     num_crops=16
-    text_encoder='fastclipstyler' # can be either fastclipstyler or edgeclipstyler
+    text_encoder='edgeclipstyler' # can be either fastclipstyler or edgeclipstyler
 
 class TrainStylePredictor():
     def __init__(self):

@@ -5,4 +5,6 @@ opencv-python
 matplotlib
 tqdm
 openai-clip
-
+streamlit
+huggingface_hub==0.25
+openai

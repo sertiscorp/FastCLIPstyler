@@ -15,7 +15,7 @@ pip install git+https://github.com/openai/CLIP.git
 
 In order to run inference with the attached trained model, please run
 ```
-python inference.py
+python inference.py # 其实这个是原作者骗你的，真正应该跑的是 streamlit_demo.py
 ```
 
 This will run the inference with the trained FastCLIPstyler model.
